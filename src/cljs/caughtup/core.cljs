@@ -26,11 +26,12 @@
    {:verb    "listened to"
     :objects ["Björk albums"
               "Ira Glass podcasts"
-              "Lofi Wu Tang Clan covers"
+              "lofi hip hop beats to relax/study to"
               "Guilty Feminist episodes"]}
    {:verb    "read"
     :objects ["Ed Young articles"
               "Erza Klein interviews"
+              "AV Club episode recaps"
               "Westworld thinkpieces"
               "McSweeney's listicles"]}])
 
