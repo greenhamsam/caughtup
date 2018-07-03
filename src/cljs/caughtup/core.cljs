@@ -15,12 +15,14 @@
   [{:verb    "seen"
     :objects ["Instagram posts"
               "dank memes"
+              "Facebook posts by your ex"
               "Trump news"
               "all /r/aww top posts"]}
    {:verb    "watched"
     :objects ["episodes of Stranger Things"
               "World Cup matches"
               "Marvel movies"
+              "Last Week Tonight snippets available on YouTube"
               "Beyonce visual albums"
               "Masterchef Australia"]}
    {:verb    "listened to"
@@ -31,6 +33,7 @@
    {:verb    "read"
     :objects ["Ed Young articles"
               "Erza Klein interviews"
+              "thinkpieces on The Atlantic"
               "AV Club episode recaps"
               "Westworld thinkpieces"
               "McSweeney's listicles"]}])
