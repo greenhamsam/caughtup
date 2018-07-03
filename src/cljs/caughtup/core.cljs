@@ -17,11 +17,12 @@
               "dank memes"
               "Facebook posts by your ex"
               "Trump news"
-              "all /r/aww top posts"]}
+              "/r/aww top posts"]}
    {:verb    "watched"
     :objects ["episodes of Stranger Things"
               "World Cup matches"
               "Marvel movies"
+              "Netflix originals"
               "Last Week Tonight snippets available on YouTube"
               "Beyonce visual albums"
               "Masterchef Australia"]}
