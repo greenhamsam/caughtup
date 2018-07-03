@@ -22,6 +22,7 @@
     :objects ["episodes of Stranger Things"
               "World Cup matches"
               "Marvel movies"
+              "Rick & Morty theory videos"
               "Netflix originals"
               "Last Week Tonight snippets available on YouTube"
               "Beyonce visual albums"
